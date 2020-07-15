@@ -15,6 +15,14 @@ apt inatall aria2
 
 启动
 
+windows
+
 ```shell
 start.cmd
+```
+
+linux 
+
+```shell
+start.sh
 ```
