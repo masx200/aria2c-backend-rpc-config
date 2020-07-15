@@ -8,9 +8,13 @@ aria2c的后端rpc配置文件
 
 https://aria2.github.io/
 
+```shell
+apt inatall aria2
+```
 使用方法
 
 启动
-```
+
+```shell
 start.cmd
 ```
