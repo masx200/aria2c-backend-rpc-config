@@ -1,1 +1,20 @@
-{"scripts":{"start":"aria2c --conf-path=aria2.conf"}}
+{
+  "scripts": {
+    "start": "aria2c --conf-path=aria2.conf"
+  },
+  "name": "aria2c-backend-rpc-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masx200/aria2c-backend-rpc-config.git"
+  },
+  "author": "masx200 <masx200@qq.com>",
+  "license": "MIT",
+  "description": "aria2c的后端rpc配置文件",
+  "bugs": {
+    "url": "https://github.com/masx200/aria2c-backend-rpc-config/issues"
+  },
+  "homepage": "https://github.com/masx200/aria2c-backend-rpc-config#readme",
+  "keywords": []
+}

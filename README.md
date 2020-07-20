@@ -1,11 +1,10 @@
 # aria2c-backend-rpc-config
 
-aria2c的后端rpc配置文件
-
+aria2c 的后端 rpc 配置文件
 
 安装方法
 
-先安装aria2c
+先安装 aria2c
 
 https://aria2.github.io/
 
@@ -23,12 +22,12 @@ windows
 start.cmd
 ```
 
-linux 
+linux
 
 ```shell
 start.sh
 ```
 
-aria2前端webui
+aria2 前端 webui
 
 https://github.com/masx200/local-aria2-webui
