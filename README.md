@@ -28,3 +28,7 @@ linux
 ```shell
 start.sh
 ```
+
+aria2前端webui
+
+https://github.com/masx200/local-aria2-webui
