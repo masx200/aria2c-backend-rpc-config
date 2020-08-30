@@ -2,7 +2,7 @@
 
 aria2c 的后端 rpc 配置文件
 
-安装方法
+# 安装方法
 
 先安装 aria2c
 
@@ -12,7 +12,7 @@ https://aria2.github.io/
 apt inatall aria2
 ```
 
-使用方法
+# 使用方法
 
 启动
 
